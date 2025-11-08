@@ -1,0 +1,89 @@
+body{
+    background-color: blue;
+}
+
+.kattakarobka1{
+    text-align: center;
+    background-color: rgb(76, 76, 235)
+    
+}
+
+.a33{
+     width: 200px;
+    height: 200px;
+}
+
+   
+.rasm{
+    
+    background-color: darkblue;
+    
+    width: 200px;
+    height: 200px;
+    border: 5px;
+   text-align: center;
+}
+
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: darkblue;
+    color: aliceblue;
+    width: 1290px;
+    height: 5px;
+    font-size: 18px;
+}
+
+.h33{
+   
+    color: rgb(255, 81, 0);
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+.olovrang{
+    background-color: rgb(255, 94, 0);
+    color: white;
+}
+
+
+
+img{
+    width: 500px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
